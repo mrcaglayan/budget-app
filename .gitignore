@@ -1,0 +1,8 @@
+#node dependencies
+node_modules/
+**/node_modules/
+# --- secrets ---
+.env
+backend/.env
+frontend/.env
+.env.*
